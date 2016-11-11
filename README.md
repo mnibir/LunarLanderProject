@@ -2,9 +2,7 @@
 
 ## DAW1. LENGUAJE DE MARCAS. LUNAR LANDER
 
-Codificación de la propuesta del grupo formado por: 
-
-**D. Aranda Hevia, F.M. Estelrich Cánaves, D. Rodríguez Cardell y J.S. Vera Fernando**
+Codificación de la propuesta del grupo formado por: *D. Aranda Hevia, F.M. Estelrich Cánaves, D. Rodríguez Cardell y J.S. Vera Fernando*
 
 ### Componentes
 
