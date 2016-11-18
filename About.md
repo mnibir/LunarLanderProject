@@ -9,12 +9,12 @@
 
   + Fondo estrellado
   + Suelo lunar
-  + Naves (gif, Samsung Note 7)
+  + Diseño de naves (i.e. gif, Samsung Note 7)
   
   
 + Estelrich Cánaves, F.M.
 
-  + Naves
+  + Diseño de naves
   + Recolocación de elementos para el diseño vertical
   
   
